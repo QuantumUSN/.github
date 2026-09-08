@@ -9,7 +9,7 @@ This organization develops several AI techniques to address different quantum pr
 
 - [QuantumDynamics.jl](https://github.com/QuantumUSN/QuantumDynamics.jl)
 - [DiffQuantumDynamics.jl](https://github.com/QuantumUSN/DiffQuantumDynamics.jl)
-- [NNQuantum](https://github.com/QuantumUSN/NNQuantum)
+- [NNQuantum.jl](https://github.com/QuantumUSN/NNQuantum.jl)
 
 ### Problem collection
 
