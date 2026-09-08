@@ -12,7 +12,7 @@ This organization develops several AI techniques to address different quantum pr
 
 ### Problem collection
 
-- [Problem_collection](https://github.com/QuantumUSN/Problem_collection) — a repository of quantum problems addressed with the developed AI tools.
+- [Problem_collection](https://github.com/QuantumUSN/Problem_collection) — a repository of quantum problems addressed with the developed AI tools. Not here yet, so it is possible to run test in the examples folders present in each library.
 
 
 # .github
