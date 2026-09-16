@@ -8,7 +8,7 @@ This organization develops several AI techniques to address different quantum pr
 - [DiffQuantumDynamics.jl](https://github.com/QuantumUSN/DiffQuantumDynamics.jl): A differentiable version of QuantumDynamics.jl, with built-in evolution functions, independent from QuantumOptics.jl.
 - [ESQuantum.jl](https://github.com/QuantumUSN/ESQuantum.jl.git): A Julia framework to implement Estimation Strategies algorithms for quantum problems (to be migrated into MLQuantum asap).
 - [RLQuantum.jl](https://github.com/QuantumUSN/RLQuantum.jl.git): A Julia framework to implement Reinforcement Learning algorithms for quantum problems (to be migrated into MLQuantum asap).
-- [MLQuantum.jl](git@github.com:QuantumUSN/MLQuantum.jl.git): A Julia framework of Neural Network and Reinforcement Learning techniques for quantum problems.
+- [MLQuantum.jl](https://github.com/QuantumUSN/MLQuantum.jl.git): A Julia framework of Neural Network and Reinforcement Learning techniques for quantum problems.
 
 ### Problem collection
 
